@@ -114,8 +114,8 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## 💌 Contact
 
 For queries or support, feel free to reach out:
-- Email: your.email@example.com 📧
-- GitHub: [Your GitHub Profile](https://github.com/your-profile) 🌐
+- Email: zulqarnain4292@gmail.com 📧
+- GitHub: ([https://github.com/your-profile](https://github.com/zulqarnain02)) 🌐
 
 ---
 
