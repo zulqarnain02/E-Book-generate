@@ -68,9 +68,11 @@ python3 generate_ebook.py
 ```
 
 1. Enter a topic for the e-book.
-  ![Screenshot 2025-01-10 032429](https://github.com/user-attachments/assets/73870a2f-fe73-41d6-a289-6783f9ec4c2b)
+   
+   ![Screenshot 2025-01-10 032429](https://github.com/user-attachments/assets/73870a2f-fe73-41d6-a289-6783f9ec4c2b)
  
 2. Provide additional details to include in the content.
+   
    ![Screenshot 2025-01-10 032444](https://github.com/user-attachments/assets/1496d018-8e69-4d62-876a-903df58bc681)
 
 3. The tool generates a `README.md` file and a PDF with the topic name.
